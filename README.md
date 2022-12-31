@@ -1,4 +1,4 @@
-#       ATM-Card
+#       ATM-Project
  - #####   ATM stands for Automated Teller Machine. 
 #####   Similarly ATM card is a PIN-based card issued by a bank to account holders to use it for various purposes at the 
 
